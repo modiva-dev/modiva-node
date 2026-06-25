@@ -6,7 +6,7 @@
   "homepage": "https://modiva.ai",
   "repository": {
     "type": "git",
-    "url": "https://github.com/modiva-dev/node.git"
+    "url": "https://github.com/modiva-dev/modiva-node.git"
   },
   "type": "module",
   "main": "./dist/index.cjs",
